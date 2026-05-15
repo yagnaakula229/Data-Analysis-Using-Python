@@ -1,0 +1,97 @@
+order_date,ship_mode,product_name,category,sub_category,sales,quantity,profit
+2019-01-01,Standard Class,Apple MacBook Pro,Technology,Computers,1200.00,1,120.00
+2019-01-02,Second Class,Dell Latitude,Technology,Computers,800.00,1,80.00
+2019-01-03,First Class,HP Pavilion,Technology,Computers,600.00,1,60.00
+2019-01-04,Standard Class,Lenovo ThinkPad,Technology,Computers,900.00,1,90.00
+2019-01-05,Same Day,Samsung Galaxy S21,Technology,Phones,700.00,1,70.00
+2019-01-06,Standard Class,iPhone 13,Technology,Phones,1000.00,1,100.00
+2019-01-07,Second Class,Google Pixel 6,Technology,Phones,600.00,1,60.00
+2019-01-08,First Class,OnePlus 9,Technology,Phones,500.00,1,50.00
+2019-01-09,Standard Class,Sony WH-1000XM4,Technology,Accessories,300.00,1,30.00
+2019-01-10,Standard Class,Bose QuietComfort,Technology,Accessories,250.00,1,25.00
+2019-01-11,Second Class,Logitech MX Master,Technology,Accessories,100.00,1,10.00
+2019-01-12,First Class,Razer DeathAdder,Technology,Accessories,80.00,1,8.00
+2019-01-13,Standard Class,Canon EOS R5,Technology,Cameras,2000.00,1,200.00
+2019-01-14,Standard Class,Nikon Z6,Technology,Cameras,1800.00,1,180.00
+2019-01-15,Second Class,Fujifilm X-T4,Technology,Cameras,1600.00,1,160.00
+2019-01-16,First Class,Panasonic Lumix,Technology,Cameras,1400.00,1,140.00
+2019-01-17,Standard Class,Nike Air Max,Clothing,Shoes,120.00,1,12.00
+2019-01-18,Standard Class,Adidas Ultraboost,Clothing,Shoes,130.00,1,13.00
+2019-01-19,Second Class,Puma RS-X,Clothing,Shoes,110.00,1,11.00
+2019-01-20,First Class,Reebok Classic,Clothing,Shoes,100.00,1,10.00
+2019-01-21,Standard Class,Coca-Cola 12pk,Food,Beverages,5.00,12,0.50
+2019-01-22,Standard Class,Pepsi 12pk,Food,Beverages,5.00,12,0.50
+2019-01-23,Second Class,Sprite 12pk,Food,Beverages,5.00,12,0.50
+2019-01-24,First Class,Fanta 12pk,Food,Beverages,5.00,12,0.50
+2020-01-01,Standard Class,Apple MacBook Pro,Technology,Computers,1200.00,1,120.00
+2020-01-02,Second Class,Dell Latitude,Technology,Computers,800.00,1,80.00
+2020-01-03,First Class,HP Pavilion,Technology,Computers,600.00,1,60.00
+2020-01-04,Standard Class,Lenovo ThinkPad,Technology,Computers,900.00,1,90.00
+2020-01-05,Same Day,Samsung Galaxy S21,Technology,Phones,700.00,1,70.00
+2020-01-06,Standard Class,iPhone 13,Technology,Phones,1000.00,1,100.00
+2020-01-07,Second Class,Google Pixel 6,Technology,Phones,600.00,1,60.00
+2020-01-08,First Class,OnePlus 9,Technology,Phones,500.00,1,50.00
+2020-01-09,Standard Class,Sony WH-1000XM4,Technology,Accessories,300.00,1,30.00
+2020-01-10,Standard Class,Bose QuietComfort,Technology,Accessories,250.00,1,25.00
+2020-01-11,Second Class,Logitech MX Master,Technology,Accessories,100.00,1,10.00
+2020-01-12,First Class,Razer DeathAdder,Technology,Accessories,80.00,1,8.00
+2020-01-13,Standard Class,Canon EOS R5,Technology,Cameras,2000.00,1,200.00
+2020-01-14,Standard Class,Nikon Z6,Technology,Cameras,1800.00,1,180.00
+2020-01-15,Second Class,Fujifilm X-T4,Technology,Cameras,1600.00,1,160.00
+2020-01-16,First Class,Panasonic Lumix,Technology,Cameras,1400.00,1,140.00
+2020-01-17,Standard Class,Nike Air Max,Clothing,Shoes,120.00,1,12.00
+2020-01-18,Standard Class,Adidas Ultraboost,Clothing,Shoes,130.00,1,13.00
+2020-01-19,Second Class,Puma RS-X,Clothing,Shoes,110.00,1,11.00
+2020-01-20,First Class,Reebok Classic,Clothing,Shoes,100.00,1,10.00
+2020-01-21,Standard Class,Coca-Cola 12pk,Food,Beverages,5.00,12,0.50
+2020-01-22,Standard Class,Pepsi 12pk,Food,Beverages,5.00,12,0.50
+2020-01-23,Second Class,Sprite 12pk,Food,Beverages,5.00,12,0.50
+2020-01-24,First Class,Fanta 12pk,Food,Beverages,5.00,12,0.50
+2021-01-01,Standard Class,Apple MacBook Pro,Technology,Computers,1200.00,1,120.00
+2021-01-02,Second Class,Dell Latitude,Technology,Computers,800.00,1,80.00
+2021-01-03,First Class,HP Pavilion,Technology,Computers,600.00,1,60.00
+2021-01-04,Standard Class,Lenovo ThinkPad,Technology,Computers,900.00,1,90.00
+2021-01-05,Same Day,Samsung Galaxy S21,Technology,Phones,700.00,1,70.00
+2021-01-06,Standard Class,iPhone 13,Technology,Phones,1000.00,1,100.00
+2021-01-07,Second Class,Google Pixel 6,Technology,Phones,600.00,1,60.00
+2021-01-08,First Class,OnePlus 9,Technology,Phones,500.00,1,50.00
+2021-01-09,Standard Class,Sony WH-1000XM4,Technology,Accessories,300.00,1,30.00
+2021-01-10,Standard Class,Bose QuietComfort,Technology,Accessories,250.00,1,25.00
+2021-01-11,Second Class,Logitech MX Master,Technology,Accessories,100.00,1,10.00
+2021-01-12,First Class,Razer DeathAdder,Technology,Accessories,80.00,1,8.00
+2021-01-13,Standard Class,Canon EOS R5,Technology,Cameras,2000.00,1,200.00
+2021-01-14,Standard Class,Nikon Z6,Technology,Cameras,1800.00,1,180.00
+2021-01-15,Second Class,Fujifilm X-T4,Technology,Cameras,1600.00,1,160.00
+2021-01-16,First Class,Panasonic Lumix,Technology,Cameras,1400.00,1,140.00
+2021-01-17,Standard Class,Nike Air Max,Clothing,Shoes,120.00,1,12.00
+2021-01-18,Standard Class,Adidas Ultraboost,Clothing,Shoes,130.00,1,13.00
+2021-01-19,Second Class,Puma RS-X,Clothing,Shoes,110.00,1,11.00
+2021-01-20,First Class,Reebok Classic,Clothing,Shoes,100.00,1,10.00
+2021-01-21,Standard Class,Coca-Cola 12pk,Food,Beverages,5.00,12,0.50
+2021-01-22,Standard Class,Pepsi 12pk,Food,Beverages,5.00,12,0.50
+2021-01-23,Second Class,Sprite 12pk,Food,Beverages,5.00,12,0.50
+2021-01-24,First Class,Fanta 12pk,Food,Beverages,5.00,12,0.50
+2022-01-01,Standard Class,Apple MacBook Pro,Technology,Computers,1200.00,1,120.00
+2022-01-02,Second Class,Dell Latitude,Technology,Computers,800.00,1,80.00
+2022-01-03,First Class,HP Pavilion,Technology,Computers,600.00,1,60.00
+2022-01-04,Standard Class,Lenovo ThinkPad,Technology,Computers,900.00,1,90.00
+2022-01-05,Same Day,Samsung Galaxy S21,Technology,Phones,700.00,1,70.00
+2022-01-06,Standard Class,iPhone 13,Technology,Phones,1000.00,1,100.00
+2022-01-07,Second Class,Google Pixel 6,Technology,Phones,600.00,1,60.00
+2022-01-08,First Class,OnePlus 9,Technology,Phones,500.00,1,50.00
+2022-01-09,Standard Class,Sony WH-1000XM4,Technology,Accessories,300.00,1,30.00
+2022-01-10,Standard Class,Bose QuietComfort,Technology,Accessories,250.00,1,25.00
+2022-01-11,Second Class,Logitech MX Master,Technology,Accessories,100.00,1,10.00
+2022-01-12,First Class,Razer DeathAdder,Technology,Accessories,80.00,1,8.00
+2022-01-13,Standard Class,Canon EOS R5,Technology,Cameras,2000.00,1,200.00
+2022-01-14,Standard Class,Nikon Z6,Technology,Cameras,1800.00,1,180.00
+2022-01-15,Second Class,Fujifilm X-T4,Technology,Cameras,1600.00,1,160.00
+2022-01-16,First Class,Panasonic Lumix,Technology,Cameras,1400.00,1,140.00
+2022-01-17,Standard Class,Nike Air Max,Clothing,Shoes,120.00,1,12.00
+2022-01-18,Standard Class,Adidas Ultraboost,Clothing,Shoes,130.00,1,13.00
+2022-01-19,Second Class,Puma RS-X,Clothing,Shoes,110.00,1,11.00
+2022-01-20,First Class,Reebok Classic,Clothing,Shoes,100.00,1,10.00
+2022-01-21,Standard Class,Coca-Cola 12pk,Food,Beverages,5.00,12,0.50
+2022-01-22,Standard Class,Pepsi 12pk,Food,Beverages,5.00,12,0.50
+2022-01-23,Second Class,Sprite 12pk,Food,Beverages,5.00,12,0.50
+2022-01-24,First Class,Fanta 12pk,Food,Beverages,5.00,12,0.50
